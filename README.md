@@ -1,7 +1,7 @@
 # Dota 2 — Анализ матчей (Power BI)
 
-👉 **[Скачать дашборд в PDF](./dashboard.pdf)**
-👉 **[Скачать исходный файл .pbix](./dashboard.pbix)** (для Power BI Desktop)
+👉 **[Скачать дашборд в PDF](./DOTA_2_O63op.pdf)**
+👉 **[Скачать исходный файл .pbix](./DOTA_2_O63op.pbix)**
 
 ## О проекте
 Анализ открытых данных по матчам Dota 2.  
